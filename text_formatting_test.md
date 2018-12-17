@@ -1,8 +1,8 @@
 # myProject
 
-<b>bold</b>
-<u>underline</u>
-<i>italic</i>
+<b>bold</b><br>
+<u>underline</u><br>
+<i>italic</i><br>
 <pre>
 preformatted
 </pre>
