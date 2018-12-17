@@ -1,6 +1,6 @@
 # myProject
 <hr>
-<center><b>bold</b><br>
+<p align='center'><b>bold</b></p>
 <center><u>underline</u><br>
 <center><i>italic</i><br>
 <hr>
