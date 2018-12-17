@@ -1,8 +1,9 @@
-<h1 style="text-align: center;">My document Test</h1>
-<div style="text-align: center;"><span style="font-weight: bold;">Bold</span><br>
-<span style="text-decoration: underline;">Underlined</span><br>
-<span style="font-style: italic;">Italic</span><br>
-</div>
+<h1>My document Test</h1>
+<p align='center'>
+<b>bold</b><br>
+<u>Underlined</u><br>
+<i>Italic</i>
+</p>
 <pre>
 preformatted text
 </pre>
