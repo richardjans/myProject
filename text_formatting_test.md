@@ -1,8 +1,8 @@
 # myProject
 <hr>
 <p align='center'><b>bold</b></p>
-<center><u>underline</u><br>
-<center><i>italic</i><br>
+<p align='center'><u>underline</u></p>
+<p align='center'><i>italic</i></p>
 <hr>
 <pre>
 preformatted
