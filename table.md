@@ -11,3 +11,4 @@
 <br>
 hello there<br><br><blockquote>this is in indent<br>this is another indent<br></blockquote>
 <pre>This is preformatted text<br><br></pre>
+<center>this is centered text</center>
